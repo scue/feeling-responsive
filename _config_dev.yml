@@ -5,5 +5,5 @@
 #
 # Start development with › $ jekyll serve --config _config.yml,_config_dev.yml -P 2000
 
-url: "http://200.200.137.175:2000"
-urlimg: "http://200.200.137.175:2000/images/"
+url: "http://sangfor.linkscue.com"
+urlimg: "http://sangfor.linkscue.com/images/"
