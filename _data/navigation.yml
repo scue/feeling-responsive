@@ -25,6 +25,27 @@
     url: "/courses/linux-iptables-tips/"
   - title: "LVM使用笔记"
     url: "/courses/linux-lvm/"
+  - title: "MySql使用笔记"
+    url: "/courses/linux-mysql/"
+  - title: "Docker使用笔记"
+    url: "/courses/linux-docker/"
+
+- title: "SET知识库"
+  url: "/courses/"
+  side: left
+  dropdown:
+  - title: "认识测试开发"
+
+- title: "TTD与敏捷"
+  url: "/courses/"
+  side: left
+  dropdown:
+  - title: "测试驱动开发"
+    url: "/courses/test-driven-development/"
+  - title: "敏捷开发流程"
+  - title: "VDI4.3 SET总结"
+    url: "/courses/tdd-preview1"
+
 #  - title: "Page/Post"
 #    url: "/design/page/"
 #  - title: "Post-Left-Sidebar"
