@@ -1,6 +1,7 @@
 ---
 layout: page-fullwidth
 title: "Linux Dcoker使用笔记"
+teaser: "Docker是一个Linux上轻量级的虚拟化技术，突然很火热起来了呢"
 description: ""
 tags: 
     - Linux

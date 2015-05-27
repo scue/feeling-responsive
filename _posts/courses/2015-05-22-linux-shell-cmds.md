@@ -1,6 +1,7 @@
 ---
 layout: page-fullwidth
 title: "Linux命令行技巧"
+teaser: "讲述Linux常用命令行的技巧，可能包含一些比较巧妙的运用"
 header: no
 categories:
     - courses

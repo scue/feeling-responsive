@@ -1,5 +1,6 @@
 ---
 layout: page-fullwidth
+teaser: "主要讲解一些常用的一些命令行，及定位问题的方法"
 title: "Andriod常用工具"
 description: ""
 tags: 

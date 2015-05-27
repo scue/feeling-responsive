@@ -60,6 +60,14 @@ sudo apt-get install mysql-server mysql-client
     >delete from tb_gwid_white_list where id = 12;
     >quit
 
+更新(update)
+
+    mysql -uroot -p123456
+    >use my_wiki
+    >select * from user;
+    >update user set user_password=':B:c7a74fd2:db0b09f2527219b877ed2993f9277770' WHERE user_id='1';
+    >quit
+
 ### 5. Root对外开放
 
     mysql -uroot -ppassword

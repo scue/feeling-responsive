@@ -1,6 +1,7 @@
 ---
 layout: page-fullwidth
 title: "Android系统结构"
+teaser: "提供几张Android和Linux的系统结构大图，利用它们可以方便分析一个模块对其他模块的影响关系"
 header: no
 categories:
     - courses

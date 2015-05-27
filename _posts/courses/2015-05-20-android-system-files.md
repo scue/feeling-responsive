@@ -1,6 +1,7 @@
 ---
 layout: page-fullwidth
 title: "Android系统文件"
+teaser: "通过罗列Android系统所有文件，方便大家反向定位源代码"
 header: no
 categories:
     - courses
