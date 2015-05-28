@@ -23,10 +23,15 @@
   class: icon-github
   title: Code and more...
 
-- name: Weibo
-  url: http://weibo.com/scue
-  class: icon-weibo
-  title: Code and more...
+- name: E-Mail
+  url: mailto:scue.qq.com
+  class: icon-mail
+  title: E-Mail
+
+- name: 百度云
+  url: http://yun.baidu.com/share/home?uk=1175777033
+  class: icon-cloud
+  title: 百度云
 
 # - name: Instagram
 #   url: http://instagram.com/phlowmedia
