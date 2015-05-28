@@ -122,19 +122,17 @@
 #   - title: "Roadmap"
 #     url: "/roadmap/"
 
-# - title: Blog
-#   url: "/blog/"
-#   side: left
-#   dropdown:
-#   - title: Blog
-#     url: "/blog/"
-#   - title: "Blog Archive"
-#     url: "/blog/archive/"
+- title: 博客文章
+  url: "/blog/"
+  side: left
+  dropdown:
+  - title: "博客归档"
+    url: "/blog/archive/"
 
-- title: "Search"
+- title: "搜索"
   url: "/search/"
   side: right
 
-- title: "Contact"
+- title: "联系"
   url: "/contact/"
   side: right

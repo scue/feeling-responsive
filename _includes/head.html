@@ -7,6 +7,7 @@
 	<link rel="stylesheet" href="{{ site.url }}/assets/css/styles_feeling_responsive.css">
 	<script src="{{ site.url }}/assets/js/modernizr.min.js"></script>
 	
+{% if site.google_webfont_loader %}
   <script>
     WebFontConfig = {
       google: { families: [ 'Lato:400,700,400italic:latin', 'Volkhov::latin' ] }
@@ -22,6 +23,7 @@
       s.parentNode.insertBefore(wf, s);
     })();
   </script>
+{% endif %}
 
   <noscript>
     <link href='http://fonts.googleapis.com/css?family=Lato:400,700,400italic%7cVolkhov' rel='stylesheet' type='text/css'>
