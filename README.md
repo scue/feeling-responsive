@@ -1,3 +1,12 @@
+## Start
+
+This jekyll serve usually run on company subnet.
+
+```
+jekyll serve --config _config.yml,_config_dev.yml -P 2000
+sudo iptables -t nat -A PREROUTING -p tcp -m tcp --dport 80 -j REDIRECT --to-ports 2000
+```
+
 
 [![Start Video](https://github.com/Phlow/feeling-responsive/blob/gh-pages/images/video-feeling-responsive-1280x720.jpg)](https://www.youtube.com/embed/3b5zCFSmVvU)
 
