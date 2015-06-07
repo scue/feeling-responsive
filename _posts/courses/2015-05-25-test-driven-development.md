@@ -11,8 +11,6 @@ categories:
 permalink: /courses/test-driven-development/
 header:
     image_fullwidth: "header_roadmap_3.jpg"
-image:
-    thumb: "unsplash_brooklyn-bridge_thumb.jpg"
 ---
 <div class="row">
 <div class="medium-4 medium-push-8 columns" markdown="1">

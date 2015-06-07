@@ -3,7 +3,6 @@
   side: left
 
 - title: "Android知识库"
-  url: "/courses/"
   side: left
   dropdown:
   - title: "Android常用工具"
@@ -14,9 +13,10 @@
     url: "/courses/android-internal/"
   - title: "Android启动分析"
     url: "/courses/android-bootup/"
+  - title: "Android系统优化"
+    url: "/courses/android-optimize/"
 
 - title: "Linux知识库"
-  url: "/courses/"
   side: left
   dropdown:
   - title: "常用命令行工具"
@@ -31,13 +31,11 @@
     url: "/courses/linux-docker/"
 
 - title: "SET知识库"
-  url: "/courses/"
   side: left
   dropdown:
   - title: "认识测试开发"
 
 - title: "TTD与敏捷"
-  url: "/courses/"
   side: left
   dropdown:
   - title: "测试驱动开发"
